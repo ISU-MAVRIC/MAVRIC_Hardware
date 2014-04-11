@@ -7,3 +7,5 @@ C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Compon
 C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Components\bracket2-3-Study 1
 C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Components\bracket2-3-Study 1
 C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Components\bracket2-3-Study 1
+C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Components\bracket1-2-Study 1
+C:\Users\Jim\Documents\GitHub\MAVRIC_Hardware\End Effector\Servo Assembly Components\bracket2-3-Study 1
