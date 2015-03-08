@@ -1,4 +1,4 @@
-(module 1x6_Breakaway_Header (layer F.Cu) (tedit 54FBE7AF)
+(module 1x6_Breakaway_Header (layer F.Cu) (tedit 54FBE868)
   (fp_text reference "1x6 Breakaway Header" (at 6.731 -5.715) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -26,8 +26,8 @@
   (fp_line (start 1.778 -1.27) (end -0.762 -1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.762 -1.27) (end -0.762 1.27) (layer F.SilkS) (width 0.15))
   (pad 4 smd rect (at 8.1153 -2.27965 180) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at 10.6553 2.27965 180) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at 13.1953 -2.27965 180) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 10.6553 2.27965 180) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 13.1953 -2.27965 180) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0.4953 2.27965) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.0353 -2.27965) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 5.5753 2.27965) (size 0.9906 4.5593) (layers F.Cu F.Paste F.Mask))
