@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:MAVRIC
+LIBS:Motherboard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -502,17 +503,6 @@ Text Label 23200 -1050 2    60   ~ 0
 UCA0RXD
 Text Label 23200 -950 2    60   ~ 0
 UCA0TXD
-$Comp
-L AZ117CH-5.0 U?
-U 1 1 58219220
-P 21300 -1150
-F 0 "U?" H 21000 -1450 60  0000 C CNN
-F 1 "AZ117CH-5.0" H 21300 -1000 60  0000 C CNN
-F 2 "" H 21300 -1150 60  0001 C CNN
-F 3 "" H 21300 -1150 60  0001 C CNN
-	1    21300 -1150
-	1    0    0    -1  
-$EndComp
 Wire Notes Line
 	20300 -1950 23700 -1950
 Wire Notes Line
@@ -696,6 +686,7 @@ F 0 "P?" H 32050 3000 50  0000 C CNN
 F 1 "PCIe Card 1" V 32050 2050 50  0000 C CNN
 F 2 "" H 32050 1000 50  0000 C CNN
 F 3 "" H 32050 1000 50  0000 C CNN
+F 4 "http://www.digikey.com/product-detail/en/amphenol-fci/10018784-10200TLF/609-2025-ND/1002340" H 32050 2050 60  0001 C CNN "Digikey"
 	1    32050 2050
 	1    0    0    -1  
 $EndComp
@@ -1027,4 +1018,17 @@ Text Label 34550 2800 2    60   ~ 0
 RX2
 Text Label 34550 2700 2    60   ~ 0
 TX1
+$Comp
+L LM340MP-5.0 U?
+U 1 1 5869AD28
+P 21300 -1200
+F 0 "U?" H 21000 -1500 60  0000 C CNN
+F 1 "LM340MP-5.0" H 21300 -1050 60  0000 C CNN
+F 2 "SOT-223-4" H 21300 -1200 60  0001 C CNN
+F 3 "http://www.digikey.com/product-detail/en/texas-instruments/LM340MP-5.0-NOPB/LM340MP-5.0-NOPBCT-ND/270747" H 21300 -1200 60  0001 C CNN
+	1    21300 -1200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21300 -700 21300 -750
 $EndSCHEMATC
