@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by PcbNew date = Sat 23 May 2015 11:43:58 PM CST
+
+BeginCmp
+TimeStamp = /55434382;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA01C2;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA001F;
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA0F8B;
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F60B6F;
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /55434511;
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F606BC;
+Reference = C7;
+ValeurCmp = 10p;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F606AD;
+Reference = C8;
+ValeurCmp = 10p;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /549E7751;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /549E7760;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA0DD2;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5543889F;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F9F576;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FF05BE;
+Reference = J1;
+ValeurCmp = PCIE-MINI;
+IdModule  = miniPCIeConn;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F9FD80;
+Reference = J2;
+ValeurCmp = ISP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A7E504;
+Reference = J3;
+ValeurCmp = DIGITAL;
+IdModule  = PIN_ARRAY_15x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A91C6A;
+Reference = J4;
+ValeurCmp = ANALOG_POWER;
+IdModule  = PIN_ARRAY_13x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A7DBF7;
+Reference = MOUNTING_HOLE1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A7DBE8;
+Reference = MOUNTING_HOLE2;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55435189;
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5543517A;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F6091E;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /549E7779;
+Reference = R4;
+ValeurCmp = 549;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /549E7788;
+Reference = R5;
+ValeurCmp = 549;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FA0DC3;
+Reference = R6;
+ValeurCmp = 100;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /554389A4;
+Reference = R7;
+ValeurCmp = 549;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53F60946;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SMD_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /55433786;
+Reference = U1;
+ValeurCmp = ATMEGA32U4-AU;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAA50B;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = SMDXTAL_50x32;
+EndCmp
+
+EndListe

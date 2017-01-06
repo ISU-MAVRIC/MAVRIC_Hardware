@@ -1,4 +1,4 @@
-update=11/6/2016 11:23:42 PM
+update=1/5/2017 1:52:22 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=../Motherboard
+LibDir=../Motherboard;../../../../../Desktop/pcieduino-master
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +57,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=MAVRIC
+LibName31=C:/Users/Rubicore/Desktop/pcieduino-master/pcieduino
+[general]
+version=1

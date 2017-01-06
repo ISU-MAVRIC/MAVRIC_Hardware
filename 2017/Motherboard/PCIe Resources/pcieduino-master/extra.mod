@@ -1,0 +1,612 @@
+PCBNEW-LibModule-V1  Sat 02 May 2015 10:39:39 PM CST
+# encoding utf-8
+Units mm
+$INDEX
+PIN_ARRAY_13x1
+PIN_ARRAY_14x1
+SMDXTAL
+SMDXTAL_32x25
+SMDXTAL_50x32
+SMD_SWITCH
+SWITCH
+pin_array_6x1
+pin_array_8x1
+$EndINDEX
+$MODULE PIN_ARRAY_13x1
+Po 0 0 0 15 54A91BE2 00000000 ~~
+Li PIN_ARRAY_13x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.016 1.016 0 0.2032 N V 21 N "PIN_ARRAY_13X1"
+T1 0 2.54 1.016 1.016 0 0.2032 N I 21 N "Val**"
+DS -16.51 -1.27 16.51 -1.27 0.15 21
+DS 16.51 -1.27 16.51 1.27 0.15 21
+DS 16.51 1.27 -16.51 1.27 0.15 21
+DS -16.51 1.27 -16.51 -1.27 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15.24 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "11" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "12" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "13" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$EndMODULE PIN_ARRAY_13x1
+$MODULE PIN_ARRAY_14x1
+Po 0 0 0 15 54A91737 00000000 ~~
+Li PIN_ARRAY_14x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1.016 1.016 0 0.2032 N V 21 N "PIN_ARRAY_14X1"
+T1 0 2.54 1.016 1.016 0 0.2032 N I 21 N "Val**"
+DS -17.78 -1.27 17.78 -1.27 0.15 21
+DS 17.78 -1.27 17.78 1.27 0.15 21
+DS 17.78 1.27 -17.78 1.27 0.15 21
+DS -17.78 1.27 -17.78 -1.27 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 0
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 0
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "11" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "12" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 0
+$EndPAD
+$PAD
+Sh "13" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 0
+$EndPAD
+$PAD
+Sh "14" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 0
+$EndPAD
+$EndMODULE PIN_ARRAY_14x1
+$MODULE SMDXTAL
+Po 0 0 0 15 549FDF5C 00000000 ~~
+Li SMDXTAL
+Sc 0
+AR 
+Op 0 0 0
+T0 0.2 -2.9 1 1 0 0.15 N V 21 N "SMDXTAL"
+T1 0 3 1 1 0 0.15 N V 21 N "X**"
+DS 1.27 -0.635 -1.27 0.635 0.15 21
+DS -4.2 -2.2 4.2 -2.2 0.15 21
+DS 4.2 -2.2 4.2 2.2 0.15 21
+DS 4.2 2.2 -4.2 2.2 0.15 21
+DS -4.2 2.2 -4.2 -2.2 0.15 21
+$PAD
+Sh "" R 1.9 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -1.1
+$EndPAD
+$PAD
+Sh "2" R 1.9 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -1.1
+$EndPAD
+$PAD
+Sh "" R 1.9 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 1.1
+$EndPAD
+$PAD
+Sh "1" R 1.9 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 1.1
+$EndPAD
+$EndMODULE SMDXTAL
+$MODULE SMDXTAL_32x25
+Po 0 0 0 15 54AAA924 00000000 ~~
+Li SMDXTAL_32x25
+Sc 0
+AR 
+Op 0 0 0
+T0 0.2 -2.6 1 1 0 0.15 N V 21 N "SMDXTAL_32x25"
+T1 0 2.7 1 1 0 0.15 N V 21 N "X**"
+DS 2.1 -1.8 2.1 1.8 0.15 21
+DS 2.1 1.8 -2.1 1.8 0.15 21
+DS -2.1 1.8 -2.1 -1.8 0.15 21
+DS -2.1 -1.8 2.1 -1.8 0.15 21
+DS 0.2032 -0.4572 0 -0.4572 0.15 21
+DS 0 -0.4572 0 0.4572 0.15 21
+DS 0 0.4572 -0.2032 0.4572 0.15 21
+$PAD
+Sh "3" R 1.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 -0.85
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "2" R 1.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 -0.85
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "3" R 1.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.1 0.85
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "1" R 1.4 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.1 0.85
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$EndMODULE SMDXTAL_32x25
+$MODULE SMDXTAL_50x32
+Po 0 0 0 15 54AAA64C 00000000 ~~
+Li SMDXTAL_50x32
+Sc 0
+AR 
+Op 0 0 0
+T0 0.2 -2.9 1 1 0 0.15 N V 21 N "SMDXTAL_50x32"
+T1 0 3 1 1 0 0.15 N V 21 N "X**"
+DS -3.3 -2.2 3.3 -2.2 0.15 21
+DS 3.3 -2.2 3.3 2.2 0.15 21
+DS 3.3 2.2 -3.3 2.2 0.15 21
+DS -3.3 2.2 -3.3 -2.2 0.15 21
+DS 0.7 -0.4 -0.7 0.4 0.15 21
+$PAD
+Sh "3" R 1.8 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -1.2
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "2" R 1.8 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -1.2
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "3" R 1.8 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 1.2
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "1" R 1.8 1.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 1.2
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$EndMODULE SMDXTAL_50x32
+$MODULE SMD_SWITCH
+Po 0 0 0 15 5544E197 00000000 ~~
+Li SMD_SWITCH
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.6 0.5 0.5 0 0.125 N V 21 N "SMD_SWITCH"
+T1 -0.05 2.75 0.5 0.5 0 0.125 N V 21 N "SW**"
+DS 0.5 0 1 0 0.15 21
+DS 0.5 -0.75 0.5 0.75 0.15 21
+DS 0 1.5 0 0.5 0.15 21
+DS 0 -1.5 0 -0.5 0.15 21
+DS -1 1.5 1 1.5 0.15 21
+DS -1 -1.5 1 -1.5 0.15 21
+$PAD
+Sh "1" R 0.9 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75 -1.5
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "1" R 0.9 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75 -1.5
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "2" R 0.9 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.75 1.5
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$PAD
+Sh "2" R 0.9 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.75 1.5
+.SolderMask 0.1524
+.LocalClearance 0.1524
+$EndPAD
+$EndMODULE SMD_SWITCH
+$MODULE SWITCH
+Po 0 0 0 15 54390364 00000000 ~~
+Li SWITCH
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -4 1 1 0 0.15 N V 21 N "SWITCH"
+T1 0 4 1 1 0 0.15 N V 21 N "SW**"
+DS 0.5 0 1 0 0.15 21
+DS 0.5 -0.9 0.5 0.9 0.15 21
+DS 0 2.2 0 0.7 0.15 21
+DS 0 -2.2 0 -0.7 0.15 21
+DS -2.8 2.2 2.7 2.2 0.15 21
+DS -2.7 -2.2 2.6 -2.2 0.15 21
+$PAD
+Sh "1" R 1.55 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.975 -2.25
+$EndPAD
+$PAD
+Sh "1" R 1.55 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.975 -2.225
+$EndPAD
+$PAD
+Sh "2" R 1.55 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.975 2.25
+$EndPAD
+$PAD
+Sh "2" R 1.55 1.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.975 2.25
+$EndPAD
+$EndMODULE SWITCH
+$MODULE pin_array_6x1
+Po 0 0 0 15 54A7F8EB 00000000 ~~
+Li pin_array_6x1
+Cd Double rangee de contacts 2 x 8 pins
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.95 1.016 1.016 0 0.2032 N V 21 N "PIN_ARRAY_6x1"
+T1 0 2.1 1.016 1.016 0 0.2032 N V 21 N "Val**"
+DS -7.5 -1.1 7.5 -1.1 0.15 21
+DS 7.5 -1.1 7.5 1.1 0.15 21
+DS 7.5 1.1 -7.5 1.1 0.15 21
+DS -7.5 1.1 -7.5 -1.1 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_8x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_6x1
+$MODULE pin_array_8x1
+Po 0 0 0 15 54A7F65F 00000000 ~~
+Li pin_array_8x1
+Cd Double rangee de contacts 2 x 8 pins
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.95 1.016 1.016 0 0.2032 N V 21 N "PIN_ARRAY_8x1"
+T1 0 2.1 1.016 1.016 0 0.2032 N V 21 N "Val**"
+DS -10 -1.1 10 -1.1 0.15 21
+DS 10 -1.1 10 1.1 0.15 21
+DS 10 1.1 -10 1.1 0.15 21
+DS -10 1.1 -10 -1.1 0.15 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_8x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_8x1
+$EndLIBRARY
