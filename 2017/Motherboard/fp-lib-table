@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name Connectors)(type KiCad)(uri "$(KIPRJMOD)\\PCIe Resources\\Connectors.pretty-master")(options "")(descr ""))
+  (lib (name XT60)(type KiCad)(uri "$(KIPRJMOD)\\PCIe Resources\\XT60")(options "")(descr ""))
+  (lib (name MAVRIC_Logo)(type KiCad)(uri "$(KIPRJMOD)\\PCIe Resources\\MAVRIC_Logo")(options "")(descr ""))
 )
